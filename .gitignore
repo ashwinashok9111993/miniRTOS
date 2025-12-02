@@ -1,0 +1,20 @@
+# Build outputs
+build/
+*.elf
+*.hex
+*.bin
+*.map
+*.lss
+*.lst
+*.o
+*.d
+
+# IDE and editor files
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Debug files
+*.log
